@@ -1,4 +1,3 @@
-
 # Mateus Alexandre O. Alves
 
 ## Location
@@ -66,4 +65,3 @@ Explore some of my projects on GitHub:
 - [Angular Blog](https://github.com/mateusalexandre6/angular-blog.git): Dive into the world of Angular with the Angular Blog project.
 
 Feel free to explore these repositories to get a closer look at my coding style and the projects I've worked on. If you have any questions or feedback, don't hesitate to reach out!
-```
