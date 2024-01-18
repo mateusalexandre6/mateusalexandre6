@@ -1,3 +1,6 @@
+Peço desculpas pelo mal entendido. Aqui está uma versão revisada do seu perfil com uma seção adicional para seus repositórios, formatada em Markdown:
+
+```markdown
 # Mateus Alexandre O. Alves
 
 ## Location
@@ -52,3 +55,17 @@ Developed applications using Java ME, Java Web, and Android.
 **Instituto Federal de Goiás (IFG)**  
 *High School, Electronics*  
 *(January 2014 - December 2017)*
+
+## Git Repositories
+Explore some of my projects on GitHub:
+
+- [Vue Pokedex](https://github.com/mateusalexandre6/vue-pokedex.git): Explore the world of Pokémon with the Vue Pokedex project.
+
+- [HTML, CSS, JS Pokedex](https://github.com/mateusalexandre6/js-developer-pokedex.git): Discover a simple yet effective Pokedex built with HTML, CSS, and JavaScript.
+
+- [Weather App (DotNet)](https://github.com/mateusalexandre6/weatherApp.git): Check out my Weather App, a .NET project delivering real-time weather information.
+
+- [Angular Blog](https://github.com/mateusalexandre6/angular-blog.git): Dive into the world of Angular with the Angular Blog project.
+
+Feel free to explore these repositories to get a closer look at my coding style and the projects I've worked on. If you have any questions or feedback, don't hesitate to reach out!
+```
