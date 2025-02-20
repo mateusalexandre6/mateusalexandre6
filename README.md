@@ -3,6 +3,11 @@
 ## Location
 📍 Curitiba, Paraná, Brazil
 
+## Portfolio
+
+[🌌 Check out my Galactic Portfolio! 🚀](https://mateusalexandre6.github.io/portfolio/)
+
+
 ## Resume
 Greetings! 👋 My name is Mateus Alexandre, and I am a Front-end Developer with a passion for crafting clean and efficient code. I specialize in:
 
