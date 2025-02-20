@@ -5,7 +5,7 @@
 
 ## Portfolio
 
-[🌌 Check out my Galactic Portfolio! 🚀](https://mateusalexandre6.github.io/portfolio/)
+[🌌 Check out my Portfolio! 🚀](https://mateusalexandre6.github.io/portfolio/)
 
 
 ## Resume
